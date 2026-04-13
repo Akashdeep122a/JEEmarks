@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://alphajee.online/$1",
+      "permanent": true
+    }
+  ]
+}
